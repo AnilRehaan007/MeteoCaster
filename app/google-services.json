@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834018212719",
+    "project_id": "meteocaster",
+    "storage_bucket": "meteocaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834018212719:android:abb59d15d8078fed40469a",
+        "android_client_info": {
+          "package_name": "com.example.meteocaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834018212719-kaljhdc21f28rrutha0t0l6siupnvh1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi9jCmRkwbwzfbtP1Ir2wgmI-pSV5LLZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834018212719-kaljhdc21f28rrutha0t0l6siupnvh1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

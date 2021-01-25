@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MeteoCaster</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">logo</string>
+    <string name="pathankot_in">Location</string>
+    <string name="_0_c">°C</string>
+    <string name="no_data">No data</string>
+    <string name="wind_0_m_s">Wind: 0 m/s</string>
+    <string name="pressure_0_hpa">Pressure: 0 hpa</string>
+    <string name="humidity_0">Humidity: 0 %</string>
+    <string name="sunrise_00_00">Sunrise: 00:00</string>
+    <string name="sunset_00_00">Sunset: 00:00</string>
+    <string name="uv_index_loading">Uv Index: Loading...</string>
+    <string name="day_weather_report">weekly weather report</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="time">11:30</string>
+    <string name="month">month</string>
+    <string name="day">day</string>
+    <string name="main">main</string>
+    <string name="thunder">Thunder</string>
+    <string name="hourly">hourly weather report</string>
+    <string name="location">location</string>
+    <string name="time_format">time format</string>
+    <string name="temperature_unit">temperature unit</string>
+    <string name="internetOff">NO</string>
+    <string name="connection">Internet Connection</string>
+    <string name="update">Search</string>
+    <string name="updatehint">Enter Location</string>
+    <string name="select_c">°C</string>
+    <string name="select_f">°F</string>
+    <string name="hour_24">24-hour format</string>
+    <string name="hour_12">12-hour format</string>
+    <string name="space">\t</string>
+</resources>

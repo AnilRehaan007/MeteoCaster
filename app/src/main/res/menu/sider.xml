@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/location_menu"
+        android:title="@string/location" />
+    <item
+
+        android:id="@+id/temperature_menu"
+        android:title="@string/temperature_unit" />
+
+    <item
+
+        android:id="@+id/time_menu"
+        android:title="@string/time_format" />
+
+
+</menu>
